@@ -1,0 +1,8 @@
+from google.colab import files
+
+# Télécharger le résumé des résultats
+print("Téléchargement du fichier résumé...")
+files.download('data/resume_crypto.csv')
+
+# Décommentez la ligne ci-dessous si vous voulez télécharger le fichier brut complet :
+# files.download(dernier)
