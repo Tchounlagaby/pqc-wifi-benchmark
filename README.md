@@ -1,4 +1,4 @@
-# Post-Quantum Authentication for Wireless and Medical IoT — Experimental Code
+# UTILISATION DE LA CRYPTOGRAPHIE HYBRIDE POUR LA SÉCURITÉ DES DONNÉES EN TRANSIT DANS LES RÉSEAUX SANS FIL D’ENTREPRISE AU CAMEROUN 
 
 Code et scripts pour reproduire les expériences de l'article :
 **« A Lightweight Hybrid ECC–AES Security Architecture for Enterprise Wi-Fi in
