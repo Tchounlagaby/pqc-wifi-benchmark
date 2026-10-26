@@ -1,0 +1,10 @@
+# Dépendances Python du projet.
+# Installation :  pip install -r requirements.txt
+
+cryptography>=42.0        # ECDH, X25519, RSA, HKDF, AES
+matplotlib>=3.7           # figures de l'article (make_figures.py)
+
+# Post-quantique (ML-KEM). Optionnel mais recommandé.
+# Au premier import, liboqs-python compile la bibliothèque C liboqs :
+# cela peut prendre quelques minutes. Nécessite cmake et un compilateur C.
+liboqs-python>=0.10

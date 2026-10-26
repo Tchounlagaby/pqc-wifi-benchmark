@@ -1,0 +1,25 @@
+# Données brutes et résultats produits par VOS exécutions.
+# Ils ne sont pas versionnés : chaque mesure est propre à votre machine.
+# Les dossiers restent grâce aux fichiers .gitkeep.
+data/*.csv
+data/*.md
+figures/*.png
+figures/*.pdf
+
+# Fichiers temporaires de test 802.1X
+test.conf
+*.conf.tmp
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Systèmes
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
